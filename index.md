@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: TheStudio1000
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
@@ -149,7 +149,7 @@ sections:
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:s.riaz@stud.uis.no
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
@@ -157,6 +157,6 @@ sections:
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://www.facebook.com/thestudio1000/'
 
 ---
