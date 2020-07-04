@@ -155,7 +155,7 @@ sections:
       icon_type: fab
       url: '#'
     - title: Facebook
-      icon: https://maxst.icons8.com/vue-static/landings/animated-icons/icons/facebook-circled-rotation/facebook-circled-rotation.json
+      icon: fa-facebook
       icon_type: fab
       url: 'https://www.facebook.com/thestudio1000/'
 
