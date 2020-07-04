@@ -155,7 +155,7 @@ sections:
       icon_type: fab
       url: '#'
     - title: Facebook
-      icon: fa-facebook
+      icon: facebook circled rotation
       icon_type: fab
       url: 'https://www.facebook.com/thestudio1000/'
 
